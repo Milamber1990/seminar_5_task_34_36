@@ -1,0 +1,15 @@
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/bin/Debug/net6.0/task_36
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/bin/Debug/net6.0/task_36.deps.json
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/bin/Debug/net6.0/task_36.runtimeconfig.json
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/bin/Debug/net6.0/task_36.dll
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/bin/Debug/net6.0/ref/task_36.dll
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/bin/Debug/net6.0/task_36.pdb
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/obj/Debug/net6.0/task_36.csproj.AssemblyReference.cache
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/obj/Debug/net6.0/task_36.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/obj/Debug/net6.0/task_36.AssemblyInfoInputs.cache
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/obj/Debug/net6.0/task_36.AssemblyInfo.cs
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/obj/Debug/net6.0/task_36.csproj.CoreCompileInputs.cache
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/obj/Debug/net6.0/task_36.dll
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/obj/Debug/net6.0/ref/task_36.dll
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/obj/Debug/net6.0/task_36.pdb
+/home/andrey/Рабочий стол/Учеба/C#/seminar_5/task_36/obj/Debug/net6.0/task_36.genruntimeconfig.cache
